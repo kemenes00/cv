@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.snoopy-fot {
+  width: 9%;
+  float:left;
+  margin-right: 30px;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+h2 {
+color: #66BFBF;
+font-family: 'Montserrat', sans-serif;
+font-size: 2.5rem;
+}
+h3 {
+  color: #11999E;
+font-family: 'Montserrat', sans-serif;
+}
+a {
+  color: #11999E;
+}
+.learning {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.bycicle {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+.top-container{
+  background-color: #fdef96;
+  position: relative;
+padding-top: 100px;
+}
+.middle-container {
+background-color: #f2f6f5;
+margin: 0;
+/*position: relative;*/
+}
+.bottom-container {
+  background-color: #fafdcb;
+/*  position: relative;*/
+}
+pro {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.skills {
+  background-color: #caf2d7;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto; /*ez igazitja kozepre a cuccokat*/
+  text-align: left;
+  line-height: 2;
+}
+.contact-me {
+  background-color: #fafdcb;
+}
